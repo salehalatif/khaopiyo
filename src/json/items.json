@@ -1,0 +1,58 @@
+[
+    {
+        "id": 7,
+        "title": "Deal 1",
+        "detail": "Any Roll ,Chicken tikka ,plain paratha ,soft drinks",
+        "image": "https://chikoo.imgix.net/merchant-production/a6446de2-0226-431d-96c3-461a0ec21d5e/product/1634885160718/1634885160718.jpg?ixlib=js-3.8.0&w=115&dpi=96&s=de225430ce07530b9e18be604e59f054",
+        "price": 1000,
+        "category": 0
+    },
+    {
+        "id": 2,
+        "title": "Deal 2",
+        "detail": "Any Roll ,Chicken tikka ,plain paratha ,soft drinks",
+        "image": "https://chikoo.imgix.net/merchant-production/a6446de2-0226-431d-96c3-461a0ec21d5e/product/1634885098649/1634885098649.jpg?ixlib=js-3.8.0&w=115&dpi=96&s=dff5a66fa11a13e24e3da54287cd4d25",
+        "price": 1300,
+        "category": 0
+    },
+    {
+        "id": 3,
+        "title": "Deal 3",
+        "detail": "Any Roll ,Chicken tikka ,plain paratha ,soft drinks",
+        "image": "https://chikoo.imgix.net/merchant-production/a6446de2-0226-431d-96c3-461a0ec21d5e/product/1634885160718/1634885160718.jpg?ixlib=js-3.8.0&w=115&dpi=96&s=de225430ce07530b9e18be604e59f054",
+        "price": 450,
+        "category": 0
+    },
+    {
+        "id": 4,
+        "title": "Deal 3",
+        "detail": "Any Roll ,Chicken tikka ,plain paratha ,soft drinks",
+        "image": "https://chikoo.imgix.net/merchant-production/a6446de2-0226-431d-96c3-461a0ec21d5e/product/1634886201981/1634886201981.jpg?ixlib=js-3.8.0&w=115&dpi=96&s=6c5168a63dcef2a1912e13437c07c9ba",
+        "price": 900,
+        "category": 0
+    },
+    {
+        "id": 5,
+        "title": "Deal 3",
+        "detail": "Any Roll ,Chicken tikka ,plain paratha ,soft drinks",
+        "image": "https://chikoo.imgix.net/merchant-production/a6446de2-0226-431d-96c3-461a0ec21d5e/product/1634886201981/1634886201981.jpg?ixlib=js-3.8.0&w=115&dpi=96&s=6c5168a63dcef2a1912e13437c07c9ba",
+        "price": 1200,
+        "category": 1
+    },
+    {
+        "id": 6,
+        "title": "Deal 3",
+        "detail": "Any Roll ,Chicken tikka ,plain paratha ,soft drinks",
+        "image": "",
+        "price": 399,
+        "category": 1
+    },
+    {
+        "id": 7,
+        "title": "Deal 3",
+        "detail": "Any Roll ,Chicken tikka ,plain paratha ,soft drinks",
+        "image": "https://chikoo.imgix.net/merchant-production/a6446de2-0226-431d-96c3-461a0ec21d5e/product/1634885098649/1634885098649.jpg?ixlib=js-3.8.0&w=115&dpi=96&s=dff5a66fa11a13e24e3da54287cd4d25",
+        "price": 400,
+        "category": 1
+    }
+]
